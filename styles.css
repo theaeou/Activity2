@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+.info, .info2 {
+    border: 3px solid #ccc;
+    padding: 20px;
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+.profile {
+    width: 100px; 
+    height: 100px; 
+    border-radius: 60%;
+}
+
+.h4 {
+    margin-top: 20px;
+    color: #ff1f1f;
+}
+
+p {
+    margin-top: 5px;
+    color: #383737;
+}
+
+.favorite-lyrics {
+    margin-top: 10px;
+    color: #990000;
+    font-style: italic;
+}
+
